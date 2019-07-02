@@ -1,0 +1,5 @@
+name_header;description_header;image_1_header;colour_header;size_header;sleeve_length_header;sku_header;heel_height_header;laces_header
+name;description;image_1;colour;size;sleeve_length;;;
+name;description;image_1;colour;;;sku;heel_height;laces
+name;description;image_1;colour;size;sleeve_length;sku;;
+name;description;image_1;colour;size;sleeve_length;sku;;
